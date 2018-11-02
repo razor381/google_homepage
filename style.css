@@ -1,0 +1,103 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: arial, sans-serif;
+}
+
+.mouse:hover {
+	text-decoration: underline;
+}
+
+.navbar {
+	height: 50px;
+}
+
+ul {
+	list-style-type: none;
+	margin-right: 3%;
+}
+
+li {
+	float: right;
+}
+
+.pad30 {
+	padding: 20px 10px;
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+.imgicon {
+	width: 32px;
+	height: 32px;
+}
+
+.navicon {
+	width: 10px;
+}
+
+.naviconli {
+	padding: 13px 55px 0 20px;
+}
+
+.signup {
+	background: #4285f4;
+	color: white;
+	padding: 10px 20px;
+	margin: 10px 0 0 0;
+	border-radius: 2px;
+}
+
+/*navbar ending*/
+
+
+.googlebody {
+	position: absolute;	
+	top: 25%;
+	width: 100%;
+}
+
+
+.googlelogo {
+	width: 400px;
+	margin: auto;
+}
+
+.searchInput {
+	position: relative;
+	top: 30px;
+}
+
+.bar {
+	width: 900px;
+	height: 30px;
+	margin: 0 0 0 30%;
+}
+
+.buttons {
+	margin: 30px 0 0 44%;
+}
+
+.luckyButton {
+	/*margin-left: 100px;*/
+}
+
+.size {
+	height: 50px;
+}
+
+.language {
+	position: relative;
+	text-align: center;
+	top: 40px;	
+	font-size: 1.2em;
+	margin: auto;
+}
+
+.lang {
+	color: blue;
+}
+
