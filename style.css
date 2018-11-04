@@ -72,13 +72,13 @@ a {
 }
 
 .bar {
-	width: 900px;
+	width: 830px;
 	height: 30px;
 	margin: 0 0 0 30%;
 }
 
 .buttons {
-	margin: 30px 0 0 44%;
+	margin: 30px 0 0 41%;
 }
 
 .luckyButton {
@@ -87,6 +87,7 @@ a {
 
 .size {
 	height: 50px;
+	width: 200px;
 }
 
 .language {
@@ -101,3 +102,64 @@ a {
 	color: blue;
 }
 
+
+/*end of searcharea*/
+
+.footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	background: #f2f2f2;
+	width: 100%;
+	height: 90px;
+}
+
+.nepal {
+	position: relative;
+	padding: 10px 30px;
+	top: 15px;
+}
+
+.fontSmall {
+	font-size: .85em;
+}
+
+.faint {
+	color: #565656;
+}
+
+hr {
+    display: block;
+    height: .01em;
+    border: 0;
+    background: white;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+    margin: 0;
+}
+
+.topFoot, .botFoot {
+	height: 50%;
+}
+
+.botFoot {
+	height: 100px;
+}
+
+.left {
+	margin:12px 0 0 5px;
+	position: absolute;
+	padding:0;
+	left: 0;
+}
+
+.right {
+	position: absolute;
+	right:0;
+	margin-right: 30px;
+}
+
+.padLeft {
+	padding: 0 0 0 25px;
+}
